@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### __Ramadan__
+* __*taraweeh*__
+* __*fasting*__
+* __*iftar*__
+* __*suhoor*__
+* __*quran*__
